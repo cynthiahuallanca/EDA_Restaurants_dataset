@@ -12,7 +12,7 @@ The objective of this analysis is to explore the data to gain insights into rest
 - **Visualizations:** Using various plots and charts to visually represent key insights and trends.
 
 **Opening the files**
-- **Quick view:** open the HTML file, this will show the python script with results, conclusions and recommendations 
+- **Quick view:** open the PDF or HTML file, this will show the python script with results, conclusions and recommendations 
 - **Run it yourself:** Feel free to browse the notebook to see how the data was analyzed and how insights were derived to support decision-making.
 
 
