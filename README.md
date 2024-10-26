@@ -11,6 +11,9 @@ The objective of this analysis is to explore the data to gain insights into rest
 - **Multivariate Analysis:** Investigating the relationships between multiple variables to uncover trends, such as how delivery times are influenced by restaurant ratings or time of day.
 - **Visualizations:** Using various plots and charts to visually represent key insights and trends.
 
-Feel free to browse the notebook to see how the data was analyzed and how insights were derived to support decision-making.
+**Opening the files**
+- **Quick view:** open the HTML file, this will show the python script with results, conclusions and recommendations 
+- **Run it yourself:** Feel free to browse the notebook to see how the data was analyzed and how insights were derived to support decision-making.
 
-Feel free to explore the notebook to see how insights are derived from the data.
+
+~Enjoy the ride!
